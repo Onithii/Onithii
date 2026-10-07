@@ -1,16 +1,21 @@
-## Hi there 👋
+# $ cat onithi_profile.json
 
-<!--
-**Onithii/Onithii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Onithi Rathnakumara",
+  "role": "Software Engineering Undergraduate",
+  "location": "Sri Lanka 🇱🇰",
+  "core_competencies": [
+    "Full-Stack Web Development",
+    "Mobile App Development",
+    "API Architecture & Integration",
+    "Database Management"
+  ],
+  "tech_stack": {
+    "backend": ["Java (Spring Boot)", "PHP", "Node.js"],
+    "mobile": ["Kotlin", "Flutter / Dart"],
+    "databases": ["MySQL", "MongoDB", "Oracle PL/SQL", "Firebase"],
+    "frontend": ["JavaScript", "HTML5/CSS3"]
+  },
+  "current_status": "Open to Software Engineering & Business Analyst Trainee / Intern Opportunities"
+}
