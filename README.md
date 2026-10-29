@@ -11,7 +11,7 @@
 ```js
 const onithi = {
   studying: "Software Engineering",
-  interests: ["development", "AI/ML", "cloud"],
+  interests: ["development", "AI", "Mobile"],
   currently: "learning by building",
   location: "Sri Lanka"
 };
@@ -43,8 +43,5 @@ const onithi = {
 
 </div>
 
-<div align="center">
 
-[github](https://github.com/Onithii) · [linkedin](https://www.linkedin.com/in/onithi-rathnakumara)
 
-</div>
